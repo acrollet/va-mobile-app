@@ -42,6 +42,7 @@ Open the file you want to branch. Next to the file name, there is a dropdown whe
 
 
 ![Screenshot of the create a branch menu item](/img/figma/figma-create-a-branch-menu.png)
+<img src={require('./img/figma/figma-create-a-branch-menu.png').default} alt="Screenshot of the create a branch menu item" width="200"/>
 
 Name your branch and select **Create**.
 
